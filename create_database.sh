@@ -1,5 +1,5 @@
 #!/bin/bash
-# Creating Database fro Wordpress
+# Creating Database for Wordpress
 # Author : Kaushal Kishore <kaushal.rahuljaiswal@gmail.com>
 if [[ $# -eq 0 ]]; then
 	echo "Usage: $0 <db_name>"
